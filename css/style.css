@@ -171,7 +171,7 @@ section h2
 #skills h2
 {
     margin-bottom: 60px;
-    color: #ffffff;
+    color: #4c4c4c;
 }
 #skills .skill-box
 {
@@ -310,6 +310,7 @@ section h2
 {
     margin-top: 60px;
     text-align: center;
+    padding-left: 0; 
 }
 #contact ul li
 {
@@ -326,8 +327,9 @@ section h2
 {
     margin-right: 0;
 }
+#contact ul .email,
 #contact ul .github,
-#contact ul .skype
+#contact ul .facebook
 {
     font-size: 3.2rem;
 }
